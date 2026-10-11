@@ -1,3 +1,5 @@
+> **Eksperimentinis paketas, o ne pagrindinis projektų katalogas.** Šis paketas buvo sukurtas klaidingai supratus norimą projektų išdėstymą. Pagrindinis integracijų ir kortų sąrašas yra [braticks profilyje](https://github.com/braticks). Atskirų projektų diegimo adresai ir README lieka aktualūs; į šį paketą pereiti nereikia. Paketo failai palikti kaip eksperimentas.
+
 # Braticks Cards
 
 Bendras Home Assistant kortų paketas. Vienas HACS adresas dabartinėms ir būsimoms kortoms.
